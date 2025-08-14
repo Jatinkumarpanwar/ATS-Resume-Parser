@@ -40,3 +40,4 @@ An AI-powered Applicant Tracking System (ATS) tool built with Python, Streamlit,
 ---
 
 ## ScreenShots
+![image alt](https://github.com/Jatinkumarpanwar/ATS-Resume-Parser/blob/main/Screenshot%202025-08-14%20112309.png)
