@@ -1,9 +1,9 @@
-#ATS Resume Parser
+# ATS Resume Parser
 An AI-powered Applicant Tracking System (ATS) tool built with Python, Streamlit, and Google Gemini API that analyzes resumes against job descriptions to provide professional feedback, highlight missing skills, and calculate a match percentage.
 
 ---
 
-##Features
+## Features
   -📄 Resume Upload: Upload resumes in PDF format.
   -🧠 AI Evaluation: Uses Google Gemini to review resumes based on the job description.
   -📊 ATS Match Percentage: Calculates how well the resume matches the job requirements.
@@ -12,7 +12,7 @@ An AI-powered Applicant Tracking System (ATS) tool built with Python, Streamlit,
   
 ---
 
-##Tech Stack
+## Tech Stack
   -Python 3
   -Streamlit – for interactive web UI
   -pdf2image – for PDF to image conversion
@@ -22,7 +22,7 @@ An AI-powered Applicant Tracking System (ATS) tool built with Python, Streamlit,
 
 ---
 
-##How It Works
+## How It Works
   1. Enter a job description in the text box.
   2. Upload a PDF resume.
   3. Choose one of the analysis options:
@@ -32,11 +32,11 @@ An AI-powered Applicant Tracking System (ATS) tool built with Python, Streamlit,
 
 ---
 
-##Example Output
+## Example Output
   -Percentage Match: 78%
   -Missing Keywords: Python, SQL, Cloud Computing
   -Final Thoughts: Strong background in data analysis, but lacks cloud-based project experience.
   
 ---
 
-##ScreenShots
+## ScreenShots
