@@ -26,8 +26,8 @@ An AI-powered Applicant Tracking System (ATS) tool built with Python, Streamlit,
   1. Enter a job description in the text box.
   2. Upload a PDF resume.
   3. Choose one of the analysis options:
-    - Tell Me About the Resume → HR-style feedback
-    - Percentage Match → ATS score + missing keywords + recommendations
+      - Tell Me About the Resume → HR-style feedback
+      - Percentage Match → ATS score + missing keywords + recommendations
   4. View results directly in your browser.
 
 ---
